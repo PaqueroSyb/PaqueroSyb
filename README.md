@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PaqueroSyb
 - 👀 I’m interested in learning more about front-end frameworks like React and the MERN stack.
-- 🌱 I’m currently learning more about writing API's in JavaScript and connecting this to a database.
+- 🌱 I’m currently learning more about writing API's in JavaScript and writing data to a database / reading data from a database.
 - 💞️ I'm working as a Senior E-mail marketer / Junior Front-End Developer.
 - 📫 How to reach me: sybrenboss@gmail.com
 
